@@ -1,6 +1,6 @@
 # Awesome Gaokao [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 高考备考资源精选 · 真题库、备考工具、学习方法、逻辑思维、AI 辅助、志愿填报，全部开源免费
+> 高考备考资源精选 · 真题库、备考工具、学习方法、逻辑思维、AI 辅助、志愿填报
 
 A curated list of open-source tools, exam banks, learning methods, and resources for China's National College Entrance Examination (高考). Covers all major subjects and study strategies.
 
